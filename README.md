@@ -16,7 +16,6 @@ Installs required packages
 
 ` npm start` <br/><br/>
 Runs the app in the development mode.<br/>
-Open http://localhost:3000 to view it in your browser.
 
 `npm run build` <br/><br/>
 Builds the app for production to the build folder.<br/>
